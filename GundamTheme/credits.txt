@@ -1,0 +1,27 @@
+Simple Theme
+A clean, modern theme for MustardOS
+
+Theme Author: Created with Claude Code
+Version: 1.0
+Date: 2026-02-22
+
+Color Palette:
+- Background: Dark blue gradients (#1a1a2e to #16213e)
+- Header/Footer: Deep blue (#0f3460)
+- Accent: Green (#0ead69)
+- Text: Light gray/white (#f1f5f9)
+- Warning: Red (#e94560)
+
+Features:
+- Clean, minimalist design
+- High contrast for readability
+- Smooth gradients
+- Rounded UI elements
+- 720x480 resolution support (RG34XXSP)
+
+Instructions:
+This is a basic theme template. To complete it:
+1. Add background images to 720x480/image/wall/
+2. Add a preview.png to 720x480/
+3. Optionally add custom fonts, glyphs, and sounds
+4. Zip the contents and rename to .muxthm
